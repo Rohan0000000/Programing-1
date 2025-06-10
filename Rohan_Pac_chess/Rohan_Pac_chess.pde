@@ -498,6 +498,894 @@ if((blackghostx == pacmanx) && (blackghosty == pacmany)){
       black+=10;
 }if((pacmanx+6 == blackghostx) && (pacmany == blackghosty-12)){
   black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx+7 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx+7 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx+8 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx+8 == blackghostx) && (pacmany == blackghosty-12)){
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx+9 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx+9 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+   }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx+10 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx+10 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx+11 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx+11 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+   }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx+12== blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx+12 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx+12 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-1 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-1 == blackghostx) && (pacmany == blackghosty-12)){
+    }if((pacmanx+2 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-2 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-2 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+   }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-3 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-3 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-4 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-4 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+   }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-5== blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-5 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-5 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-6 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-6 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-7 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-7 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-8 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-8 == blackghostx) && (pacmany == blackghosty-12)){
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-9 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-9 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+   }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-10 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-10 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+0)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-11 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-11 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+   }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+1)){
+  black+=10;
+  }if((pacmanx-12== blackghostx) && (pacmany == blackghosty+2)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+3)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+4)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+5)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+6)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+7)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+8)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+9)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+10)){
+   black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+11)){
+      black+=10;
+}if((pacmanx-12 == blackghostx) && (pacmany == blackghosty+12)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-1)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-2)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-3)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-4)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-5)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-6)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-7)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-8)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-9)){
+  black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-10)){
+   black+=10;
+  }if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-11)){
+      black+=10;
+}if((pacmanx-12 == blackghostx) && (pacmany == blackghosty-12)){
+  black+=10;
+  black+=10;
 }if(yellow >= 300){
   println(yellowwin);
 }if(black >= 300){
